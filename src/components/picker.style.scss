@@ -1,0 +1,17 @@
+.color-section {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  z-index: 2;
+  padding: 2em 2em 0em 2em;
+}
+h1 {
+  font-size: 5em;
+  color: #4b4b52;
+  margin-left: 1em;
+}
+
+.picker {
+  width: 50px !important;
+  height: 50px !important;
+}
